@@ -1,0 +1,14 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Env & secrets
+.venv/
+.env
+
+# Local DB / logs
+db.sqlite3
+*.log
+
+# OS files
+.DS_Store
